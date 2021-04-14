@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Passo a Passo para rodar o projeto
+## Passo a passo para rodar
 
 1 - Após a clonagem, rodar o comando `composer install`, serve para instalar todas as depências do projeto.
 
@@ -28,8 +28,10 @@
 
 8 - Atualizar a página, tem que aparecer esse primeiro item com um novo post, acessar a rota acima novamente, tem que atualizar a lista novamente.
 
-## Contributing
+## Contribuição para o desenvolvimento do projeto.
 
 Laravel - https://laravel.com/docs/8.x/
 
 Especializa TI - https://academy.especializati.com.br/
+
+Tailwindcss - https://tailwindcss.com/docs/guides/laravel
