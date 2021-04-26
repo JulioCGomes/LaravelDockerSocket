@@ -1,6 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## Detalhes do projeto
 
-<p align="center">
+<p align="left">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
@@ -9,7 +9,10 @@
 
 ## Passo a passo para rodar
 
-1 - Após a clonagem, rodar o comando `composer install`, serve para instalar todas as depências do projeto.
+1 - Clonar o projeto para uma pasta dentro do seu computador. <br/>
+    Comando: `git clone https://github.com/JulioCGomes/LaravelDockerSocket.git`<br/>
+    
+1.1 - Após a clonagem, rodar o comando `composer install`, serve para instalar todas as depências do projeto.
 
 2 - Instalar o laradock dentro do projeto clonagem o projeto do **[GitHub Laradock](https://github.com/laradock/laradock)** ou acessando o site **[Laradock](https://laradock.io/)** para ter mais informações de como usar.
 
